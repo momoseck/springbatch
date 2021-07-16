@@ -1,0 +1,5 @@
+transaction_id,account_number,transaction_date,transaction_type,transaction_amount
+5001,1001,17/10/2021-09:22,D,1000.04
+5002,1002,15/11/2019-17:25,C,400.54
+5003,1003,27/08/2011-09:24,C,389.09
+5004,1004,17/01/2014-09:25,D,27000
